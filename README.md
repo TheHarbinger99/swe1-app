@@ -1,7 +1,9 @@
 # swe1-app
 Django Polling App deployed to Aws Elastic Beanstalk
 
-# Instructions for UBUNTU OS to deploy project on AWS Elastic Beanstalk
+
+Instructions for UBUNTU OS to deploy project on AWS Elastic Beanstal:
+
 1) Download repository and enter folder swe1-app and open terminal.
 2) Install virtual environment:      virtualenv -p python env
 3) activate virtual environment:     source env/bin/activate
